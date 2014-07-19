@@ -12,5 +12,5 @@ Has *Ra* as U+170D (per Paul Morrow fonts) and Shift-*Ra* as U+172D (per current
 
 Please use [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) to view/edit the keyboard layout.
 
-Enjoy!
+Download [here](https://github.com/ibrado/TagalogKB-Mac/releases). Enjoy!
 
